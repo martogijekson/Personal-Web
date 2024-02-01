@@ -11,8 +11,8 @@ export default {
           status:
             "My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.",
           tech: "VueJS 3, Tailwind",
-          github: "https://github.com/martogijekson",
-          demo: "null",
+          github: "https://github.com/martogijekson/Personal-Web.git",
+          demo: "https://martogijekson.netlify.app/",
         },
         {
           id: 2,
